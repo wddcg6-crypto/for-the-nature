@@ -1,0 +1,31 @@
+{
+  "data": "synthetic; fixed random seed 381; not experimental results",
+  "statistical_sources": [
+    "IMG_3030",
+    "IMG_3031",
+    "IMG_3032",
+    "IMG_3049"
+  ],
+  "mechanism_sources": [
+    "IMG_3033",
+    "IMG_3038",
+    "IMG_3046"
+  ],
+  "statistical_canvas_mm": [
+    180,
+    140
+  ],
+  "mechanism_canvas_mm": [
+    180,
+    95
+  ],
+  "matplotlib_version": "3.11.2",
+  "outputs": [
+    "style-demo-statistical.svg",
+    "style-demo-statistical.pdf",
+    "style-demo-statistical.png",
+    "style-demo-mechanism.svg",
+    "style-demo-mechanism.pdf",
+    "style-demo-mechanism.png"
+  ]
+}
