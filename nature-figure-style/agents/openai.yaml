@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nature Figure Style · 科研绘图"
+  short_description: "从 20 张参考图提炼配色、布局和视觉层级，生成可编辑科研图"
+  default_prompt: "使用 $nature-figure-style，根据我的数据选择合适的参考图、配色和版式，生成科研图并检查导出效果。"
