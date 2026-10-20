@@ -1,0 +1,2050 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-10-20",
+  "source_collection": "for the nature",
+  "image_count": 20,
+  "method": "逐张视觉审阅；明确文字色号优先。水印遮挡或明显错误时采用本地解码 RGB 色块中心 13×13 逐通道中位数；采样不等于原始矢量文件颜色。",
+  "files": [
+    {
+      "id": "IMG_3030",
+      "filename": "IMG_3030.WEBP",
+      "width_px": 1080,
+      "height_px": 1368,
+      "sha256": "403cbc153b1c674d0d87245ee8f949f78e4fb78a63b6d114e1d14f31c3f06888",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "protein-pink-teal",
+        "protein-soft-pair",
+        "rose-blue-diverging",
+        "expression-blue-pink"
+      ]
+    },
+    {
+      "id": "IMG_3031",
+      "filename": "IMG_3031.WEBP",
+      "width_px": 1080,
+      "height_px": 1090,
+      "sha256": "4d15b6e11a60245d2244ce78a6cbc6d06704b39b9cb7958afa5c636792bcb5d5",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "ocean-uncertainty"
+      ]
+    },
+    {
+      "id": "IMG_3032",
+      "filename": "IMG_3032.WEBP",
+      "width_px": 1080,
+      "height_px": 1182,
+      "sha256": "678440af1b0c1bed39728a17c311c88b925e3e2b10434133e59ef29246d3787b",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "lavender-coral"
+      ]
+    },
+    {
+      "id": "IMG_3033",
+      "filename": "IMG_3033.WEBP",
+      "width_px": 1080,
+      "height_px": 1255,
+      "sha256": "83a3286f729b8f44a6112378b99b579f9b8dbcac7aa72e4ce045871480283144",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "immune-blue-rose"
+      ]
+    },
+    {
+      "id": "IMG_3034",
+      "filename": "IMG_3034.WEBP",
+      "width_px": 1074,
+      "height_px": 1088,
+      "sha256": "31424df2bdb95cbb9cb1f3544b3e33fd4f2d0233a4c79807026ac3db7401d244",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "organelle-lavender"
+      ]
+    },
+    {
+      "id": "IMG_3035",
+      "filename": "IMG_3035.WEBP",
+      "width_px": 1080,
+      "height_px": 1315,
+      "sha256": "7c5d490c89a1779431788dccaeb0410055d94b791ae52192414c20cf466a5150",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "rna-blue-lilac"
+      ]
+    },
+    {
+      "id": "IMG_3036",
+      "filename": "IMG_3036.WEBP",
+      "width_px": 1011,
+      "height_px": 1421,
+      "sha256": "c8001c4f768a102d420cbdf2c1cd3c9638e4f9f2b9365386cef2e3dbdece19e7",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "assay-gold-teal-red",
+        "flux-teal-sand"
+      ]
+    },
+    {
+      "id": "IMG_3037",
+      "filename": "IMG_3037.WEBP",
+      "width_px": 1044,
+      "height_px": 1406,
+      "sha256": "96aa584d59439254b1aecdedaf88928b8ef2a1f001ea573c4589ce5c19617c45",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "spectral-teal-ochre"
+      ]
+    },
+    {
+      "id": "IMG_3038",
+      "filename": "IMG_3038.WEBP",
+      "width_px": 1080,
+      "height_px": 1360,
+      "sha256": "bd405b6bc8999d0bd274f46a31173c2c55d974d35a4495bea10ea20418bf7971",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "tme-pastel"
+      ]
+    },
+    {
+      "id": "IMG_3039",
+      "filename": "IMG_3039.WEBP",
+      "width_px": 1009,
+      "height_px": 1408,
+      "sha256": "1fdd6ec1952446957a08850aaf205adcf89caf3a1f6ea8c523c4d017b1c5b331",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "genome-tracks"
+      ]
+    },
+    {
+      "id": "IMG_3040",
+      "filename": "IMG_3040.WEBP",
+      "width_px": 1028,
+      "height_px": 1360,
+      "sha256": "af2a058e6672d9d0741edef6b669974b0c4bdae3cea8e41753cf74ed5c090fe4",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "cell-atlas-nine"
+      ]
+    },
+    {
+      "id": "IMG_3041",
+      "filename": "IMG_3041.WEBP",
+      "width_px": 1045,
+      "height_px": 1394,
+      "sha256": "efb2e167bfc361aa7e9db6296c6ed317985d8b46424041e274783489aea46d19",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "age-composition"
+      ]
+    },
+    {
+      "id": "IMG_3042",
+      "filename": "IMG_3042.WEBP",
+      "width_px": 1002,
+      "height_px": 1353,
+      "sha256": "9858aa492ad62abeef3067955e52a00bbcd98fb6c1727b53e9eadddf4f43e9fc",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "development-vivid"
+      ]
+    },
+    {
+      "id": "IMG_3043",
+      "filename": "IMG_3043.WEBP",
+      "width_px": 1018,
+      "height_px": 1352,
+      "sha256": "14a4ba4ede7279989f0298c0dd7b969f27b2a2d9fe45f57ff179519e70fdbc5d",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "development-families"
+      ]
+    },
+    {
+      "id": "IMG_3044",
+      "filename": "IMG_3044.WEBP",
+      "width_px": 1242,
+      "height_px": 1656,
+      "sha256": "937f67bd759758754fe9f1f97c178e201b34a0f51b4c9a71b4cabf5076527f67",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "botanical-pastel"
+      ]
+    },
+    {
+      "id": "IMG_3045",
+      "filename": "IMG_3045.WEBP",
+      "width_px": 1242,
+      "height_px": 1656,
+      "sha256": "d9c24b411c0801630baf0ae84b0aef4dca6624dfe63aa39c5aecbbd2288018f7",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "tissue-lilac-peach"
+      ]
+    },
+    {
+      "id": "IMG_3046",
+      "filename": "IMG_3046.WEBP",
+      "width_px": 1242,
+      "height_px": 1656,
+      "sha256": "69a6d240a593ba26f62fbb59baaaec85ed1a668751c5437d3429a52129e0c816",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "functional-mint-salmon"
+      ]
+    },
+    {
+      "id": "IMG_3047",
+      "filename": "IMG_3047.WEBP",
+      "width_px": 1242,
+      "height_px": 1656,
+      "sha256": "15436974d51b61a1cb2d6d1c6d1faaa8dfbc6f56b0faddf663800edf3d88f374",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "nano-blue-lilac"
+      ]
+    },
+    {
+      "id": "IMG_3048",
+      "filename": "IMG_3048.WEBP",
+      "width_px": 1242,
+      "height_px": 1656,
+      "sha256": "e19902d13acea2a0788ee432fefaa03438c93b9beb913480b5cb4c091129b4ef",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "hydrogel-mint-rose"
+      ]
+    },
+    {
+      "id": "IMG_3049",
+      "filename": "IMG_3049.WEBP",
+      "width_px": 1048,
+      "height_px": 1405,
+      "sha256": "70d6756f18014337f9c633fa1c00a5e003708b8e7aa19abadca05897d3e14d71",
+      "review": "full_image_visual_review",
+      "palette_ids": [
+        "composition-six"
+      ]
+    }
+  ],
+  "palettes": [
+    {
+      "id": "protein-pink-teal",
+      "source": "IMG_3030.WEBP",
+      "kind": "categorical",
+      "colors": [
+        {
+          "hex": "#DEAEC3",
+          "origin": "printed_hex",
+          "printed_hex": "#DEAEC3",
+          "sampled_hex": "#DEADC2",
+          "sample_xy": [
+            170,
+            500
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#ECAFC6",
+          "origin": "printed_hex",
+          "printed_hex": "#ECAFC6",
+          "sampled_hex": "#EEB0C5",
+          "sample_xy": [
+            170,
+            570
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FBC8DB",
+          "origin": "printed_hex",
+          "printed_hex": "#FBC8DB",
+          "sampled_hex": "#FBC8DC",
+          "sample_xy": [
+            170,
+            640
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#56A1B8",
+          "origin": "printed_hex",
+          "printed_hex": "#56A1B8",
+          "sampled_hex": "#55A2B7",
+          "sample_xy": [
+            350,
+            500
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#6FBFD7",
+          "origin": "printed_hex",
+          "printed_hex": "#6FBFD7",
+          "sampled_hex": "#6FBFD6",
+          "sample_xy": [
+            350,
+            570
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#A3DCEC",
+          "origin": "printed_hex",
+          "printed_hex": "#A3DCEC",
+          "sampled_hex": "#A3DDE9",
+          "sample_xy": [
+            350,
+            640
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "protein-soft-pair",
+      "source": "IMG_3030.WEBP",
+      "kind": "categorical",
+      "colors": [
+        {
+          "hex": "#EBB3CF",
+          "origin": "printed_hex",
+          "printed_hex": "#EBB3CF",
+          "sampled_hex": "#EAB5CD",
+          "sample_xy": [
+            720,
+            500
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F8CBE0",
+          "origin": "printed_hex",
+          "printed_hex": "#F8CBE0",
+          "sampled_hex": "#F5CBE0",
+          "sample_xy": [
+            720,
+            570
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E3D5ED",
+          "origin": "printed_hex",
+          "printed_hex": "#E3D5ED",
+          "sampled_hex": "#E3D3EB",
+          "sample_xy": [
+            720,
+            640
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#8AB2D1",
+          "origin": "printed_hex",
+          "printed_hex": "#8AB2D1",
+          "sampled_hex": "#8CB2CE",
+          "sample_xy": [
+            900,
+            500
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#B1D7F2",
+          "origin": "printed_hex",
+          "printed_hex": "#B1D7F2",
+          "sampled_hex": "#B1DAF3",
+          "sample_xy": [
+            900,
+            570
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#BFC9E4",
+          "origin": "printed_hex",
+          "printed_hex": "#BFC9E4",
+          "sampled_hex": "#C0CAE3",
+          "sample_xy": [
+            900,
+            640
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "rose-blue-diverging",
+      "source": "IMG_3030.WEBP",
+      "kind": "diverging",
+      "colors": [
+        {
+          "hex": "#5293C9",
+          "origin": "printed_hex",
+          "printed_hex": "#5293C9",
+          "sampled_hex": "#5493C8",
+          "sample_xy": [
+            466,
+            1300
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#97CEFF",
+          "origin": "printed_hex",
+          "printed_hex": "#97CEFF",
+          "sampled_hex": "#9ECCF8",
+          "sample_xy": [
+            390,
+            1300
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#B2D0E8",
+          "origin": "printed_hex",
+          "printed_hex": "#B2D0E8",
+          "sampled_hex": "#B3CFE6",
+          "sample_xy": [
+            315,
+            1300
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FFFFFF",
+          "origin": "adapted_anchor",
+          "printed_hex": null,
+          "sampled_hex": null,
+          "sample_xy": null,
+          "note": "新增白色中点，用于有实质中点的发散尺度。"
+        },
+        {
+          "hex": "#ECADC4",
+          "origin": "printed_hex",
+          "printed_hex": "#ECADC4",
+          "sampled_hex": "#ECAFC6",
+          "sample_xy": [
+            240,
+            1300
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E797B4",
+          "origin": "printed_hex",
+          "printed_hex": "#E797B4",
+          "sampled_hex": "#E598B4",
+          "sample_xy": [
+            160,
+            1300
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#DF81A5",
+          "origin": "printed_hex",
+          "printed_hex": "#DF81A5",
+          "sampled_hex": "#E082A4",
+          "sample_xy": [
+            85,
+            1300
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "expression-blue-pink",
+      "source": "IMG_3030.WEBP",
+      "kind": "sequential-candidate",
+      "colors": [
+        {
+          "hex": "#71B0FD",
+          "origin": "printed_hex",
+          "printed_hex": "#71B0FD",
+          "sampled_hex": "#71B2FE",
+          "sample_xy": [
+            1025,
+            1280
+          ],
+          "note": "原图此色条对应正值范围，不据此断言零中心发散；需按新数据语义重建。"
+        },
+        {
+          "hex": "#9ECAFE",
+          "origin": "printed_hex",
+          "printed_hex": "#9ECAFE",
+          "sampled_hex": "#9FCBFD",
+          "sample_xy": [
+            1025,
+            1190
+          ],
+          "note": "原图此色条对应正值范围，不据此断言零中心发散；需按新数据语义重建。"
+        },
+        {
+          "hex": "#C4DFFC",
+          "origin": "printed_hex",
+          "printed_hex": "#C4DFFC",
+          "sampled_hex": "#C7E0FE",
+          "sample_xy": [
+            1025,
+            1100
+          ],
+          "note": "原图此色条对应正值范围，不据此断言零中心发散；需按新数据语义重建。"
+        },
+        {
+          "hex": "#FFEEF8",
+          "origin": "printed_hex",
+          "printed_hex": "#FFEEF8",
+          "sampled_hex": "#FDEBF8",
+          "sample_xy": [
+            1025,
+            1000
+          ],
+          "note": "原图此色条对应正值范围，不据此断言零中心发散；需按新数据语义重建。"
+        },
+        {
+          "hex": "#FECEE6",
+          "origin": "printed_hex",
+          "printed_hex": "#FECEE6",
+          "sampled_hex": "#FDD1EB",
+          "sample_xy": [
+            1025,
+            910
+          ],
+          "note": "原图此色条对应正值范围，不据此断言零中心发散；需按新数据语义重建。"
+        },
+        {
+          "hex": "#FDC0E1",
+          "origin": "printed_hex",
+          "printed_hex": "#FDC0E1",
+          "sampled_hex": "#FBBFE1",
+          "sample_xy": [
+            1025,
+            820
+          ],
+          "note": "原图此色条对应正值范围，不据此断言零中心发散；需按新数据语义重建。"
+        }
+      ]
+    },
+    {
+      "id": "ocean-uncertainty",
+      "source": "IMG_3031.WEBP",
+      "kind": "mixed",
+      "colors": [
+        {
+          "hex": "#D5E8F1",
+          "origin": "printed_hex",
+          "printed_hex": "#D5E8F1",
+          "sampled_hex": "#D6E7EF",
+          "sample_xy": [
+            85,
+            1015
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#ABD7DF",
+          "origin": "printed_hex",
+          "printed_hex": "#ABD7DF",
+          "sampled_hex": "#ADDADF",
+          "sample_xy": [
+            235,
+            1015
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#CAEBE7",
+          "origin": "printed_hex",
+          "printed_hex": "#CAEBE7",
+          "sampled_hex": "#CAEBE9",
+          "sample_xy": [
+            390,
+            1015
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#A9D9BB",
+          "origin": "printed_hex",
+          "printed_hex": "#A9D9BB",
+          "sampled_hex": "#A9DABA",
+          "sample_xy": [
+            545,
+            1015
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#90B4CF",
+          "origin": "printed_hex",
+          "printed_hex": "#90B4CF",
+          "sampled_hex": "#91B2CD",
+          "sample_xy": [
+            700,
+            1015
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#337BAC",
+          "origin": "printed_hex",
+          "printed_hex": "#337BAC",
+          "sampled_hex": "#3279AD",
+          "sample_xy": [
+            850,
+            1015
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#4FB1B2",
+          "origin": "printed_hex",
+          "printed_hex": "#4FB1B2",
+          "sampled_hex": "#4FB1B2",
+          "sample_xy": [
+            1000,
+            1015
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "lavender-coral",
+      "source": "IMG_3032.WEBP",
+      "kind": "categorical",
+      "colors": [
+        {
+          "hex": "#B6B3D6",
+          "origin": "printed_hex",
+          "printed_hex": "#B6B3D6",
+          "sampled_hex": "#B8B2D4",
+          "sample_xy": [
+            135,
+            1040
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#CFCCE3",
+          "origin": "printed_hex",
+          "printed_hex": "#CFCCE3",
+          "sampled_hex": "#CFCBE3",
+          "sample_xy": [
+            255,
+            1040
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#D5D3DE",
+          "origin": "printed_hex",
+          "printed_hex": "#D5D3DE",
+          "sampled_hex": "#D3D4DF",
+          "sample_xy": [
+            368,
+            1040
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#D5D1D1",
+          "origin": "printed_hex",
+          "printed_hex": "#D5D1D1",
+          "sampled_hex": "#D5CECE",
+          "sample_xy": [
+            485,
+            1040
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F6DFD6",
+          "origin": "printed_hex",
+          "printed_hex": "#F6DFD6",
+          "sampled_hex": "#F3DBD6",
+          "sample_xy": [
+            600,
+            1040
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F8B2A2",
+          "origin": "printed_hex",
+          "printed_hex": "#F8B2A2",
+          "sampled_hex": "#F5B3A2",
+          "sample_xy": [
+            715,
+            1040
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F1837A",
+          "origin": "printed_hex",
+          "printed_hex": "#F1837A",
+          "sampled_hex": "#F4847A",
+          "sample_xy": [
+            830,
+            1040
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E9687A",
+          "origin": "printed_hex",
+          "printed_hex": "#E9687A",
+          "sampled_hex": "#ED6879",
+          "sample_xy": [
+            950,
+            1040
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "immune-blue-rose",
+      "source": "IMG_3033.WEBP",
+      "kind": "schematic",
+      "colors": [
+        {
+          "hex": "#BBD1E7",
+          "origin": "printed_hex",
+          "printed_hex": "#BBD1E7",
+          "sampled_hex": "#BDD2EA",
+          "sample_xy": [
+            130,
+            920
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#6D8BC3",
+          "origin": "printed_hex",
+          "printed_hex": "#6D8BC3",
+          "sampled_hex": "#6F8FC8",
+          "sample_xy": [
+            330,
+            920
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FDF5F1",
+          "origin": "printed_hex",
+          "printed_hex": "#FDF5F1",
+          "sampled_hex": "#FEF2F2",
+          "sample_xy": [
+            540,
+            920
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E9B6BE",
+          "origin": "printed_hex",
+          "printed_hex": "#E9B6BE",
+          "sampled_hex": "#E9B6BC",
+          "sample_xy": [
+            735,
+            920
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F3E19C",
+          "origin": "printed_hex",
+          "printed_hex": "#F3E19C",
+          "sampled_hex": "#FAE39F",
+          "sample_xy": [
+            940,
+            920
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "organelle-lavender",
+      "source": "IMG_3034.WEBP",
+      "kind": "schematic",
+      "colors": [
+        {
+          "hex": "#F0ECF7",
+          "origin": "printed_hex",
+          "printed_hex": "#F0ECF7",
+          "sampled_hex": "#ECECF8",
+          "sample_xy": [
+            125,
+            755
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#CAADD8",
+          "origin": "printed_hex",
+          "printed_hex": "#CAADD8",
+          "sampled_hex": "#CAACD9",
+          "sample_xy": [
+            335,
+            755
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#AF8FD0",
+          "origin": "printed_hex",
+          "printed_hex": "#AF8FD0",
+          "sampled_hex": "#AD93D0",
+          "sample_xy": [
+            535,
+            755
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#EFC0D2",
+          "origin": "printed_hex",
+          "printed_hex": "#EFC0D2",
+          "sampled_hex": "#EFC4D5",
+          "sample_xy": [
+            740,
+            755
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F6ECF6",
+          "origin": "printed_hex",
+          "printed_hex": "#F6ECF6",
+          "sampled_hex": "#F7E9F5",
+          "sample_xy": [
+            940,
+            755
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "rna-blue-lilac",
+      "source": "IMG_3035.WEBP",
+      "kind": "schematic",
+      "colors": [
+        {
+          "hex": "#E2F0FF",
+          "origin": "printed_hex",
+          "printed_hex": "#E2F0FF",
+          "sampled_hex": "#E1EFFC",
+          "sample_xy": [
+            125,
+            975
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#85A2D2",
+          "origin": "printed_hex",
+          "printed_hex": "#85A2D2",
+          "sampled_hex": "#86A3D2",
+          "sample_xy": [
+            335,
+            975
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F9F2FE",
+          "origin": "printed_hex",
+          "printed_hex": "#F9F2FE",
+          "sampled_hex": "#F8F1FD",
+          "sample_xy": [
+            540,
+            975
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#C2ACDA",
+          "origin": "printed_hex",
+          "printed_hex": "#C2ACDA",
+          "sampled_hex": "#C2ACDA",
+          "sample_xy": [
+            740,
+            975
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#C0DB82",
+          "origin": "printed_hex",
+          "printed_hex": "#C0DB82",
+          "sampled_hex": "#C2D982",
+          "sample_xy": [
+            940,
+            975
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "assay-gold-teal-red",
+      "source": "IMG_3036.WEBP",
+      "kind": "categorical",
+      "colors": [
+        {
+          "hex": "#F09B00",
+          "origin": "printed_hex",
+          "printed_hex": "#F09B00",
+          "sampled_hex": "#F19B00",
+          "sample_xy": [
+            40,
+            875
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#016171",
+          "origin": "printed_hex",
+          "printed_hex": "#016171",
+          "sampled_hex": "#016271",
+          "sample_xy": [
+            550,
+            870
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#AE2012",
+          "origin": "printed_hex",
+          "printed_hex": "#AE2012",
+          "sampled_hex": "#AE1F12",
+          "sample_xy": [
+            40,
+            1030
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "flux-teal-sand",
+      "source": "IMG_3036.WEBP",
+      "kind": "sequential",
+      "colors": [
+        {
+          "hex": "#096176",
+          "origin": "printed_hex",
+          "printed_hex": "#096176",
+          "sampled_hex": "#006170",
+          "sample_xy": [
+            550,
+            1025
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#AFD2B7",
+          "origin": "printed_hex",
+          "printed_hex": "#AFD2B7",
+          "sampled_hex": "#A7D5B8",
+          "sample_xy": [
+            40,
+            1205
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E6D9A5",
+          "origin": "printed_hex",
+          "printed_hex": "#E6D9A5",
+          "sampled_hex": "#E6DAA5",
+          "sample_xy": [
+            550,
+            1190
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "spectral-teal-ochre",
+      "source": "IMG_3037.WEBP",
+      "kind": "ordered-candidate",
+      "colors": [
+        {
+          "hex": "#005F73",
+          "origin": "printed_hex",
+          "printed_hex": "#005F73",
+          "sampled_hex": "#016074",
+          "sample_xy": [
+            65,
+            835
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#0A9396",
+          "origin": "printed_hex",
+          "printed_hex": "#0A9396",
+          "sampled_hex": "#069395",
+          "sample_xy": [
+            580,
+            825
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#CA6702",
+          "origin": "printed_hex",
+          "printed_hex": "#CA6702",
+          "sampled_hex": "#CA6702",
+          "sample_xy": [
+            65,
+            990
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#EE9B00",
+          "origin": "printed_hex",
+          "printed_hex": "#EE9B00",
+          "sampled_hex": "#EE9D00",
+          "sample_xy": [
+            580,
+            980
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#9C2327",
+          "origin": "printed_hex",
+          "printed_hex": "#9C2327",
+          "sampled_hex": "#9F2D30",
+          "sample_xy": [
+            65,
+            1150
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#BE450D",
+          "origin": "printed_hex",
+          "printed_hex": "#BE450D",
+          "sampled_hex": "#BE4205",
+          "sample_xy": [
+            580,
+            1135
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tme-pastel",
+      "source": "IMG_3038.WEBP",
+      "kind": "schematic",
+      "colors": [
+        {
+          "hex": "#FCF1F0",
+          "origin": "printed_hex",
+          "printed_hex": "#FCF1F0",
+          "sampled_hex": "#F9EEED",
+          "sample_xy": [
+            125,
+            1030
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FCCCCB",
+          "origin": "printed_hex",
+          "printed_hex": "#FCCCCB",
+          "sampled_hex": "#FCCAC8",
+          "sample_xy": [
+            335,
+            1030
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#BDB5E1",
+          "origin": "printed_hex",
+          "printed_hex": "#BDB5E1",
+          "sampled_hex": "#BDB6DF",
+          "sample_xy": [
+            535,
+            1030
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#B0D992",
+          "origin": "printed_hex",
+          "printed_hex": "#B0D992",
+          "sampled_hex": "#B0DB94",
+          "sample_xy": [
+            740,
+            1030
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F9D580",
+          "origin": "printed_hex",
+          "printed_hex": "#F9D580",
+          "sampled_hex": "#F8D47E",
+          "sample_xy": [
+            945,
+            1030
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "genome-tracks",
+      "source": "IMG_3039.WEBP",
+      "kind": "categorical",
+      "colors": [
+        {
+          "hex": "#B15D2F",
+          "origin": "printed_hex",
+          "printed_hex": "#B15D2F",
+          "sampled_hex": "#B15D2E",
+          "sample_xy": [
+            58,
+            970
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E72035",
+          "origin": "printed_hex",
+          "printed_hex": "#E72035",
+          "sampled_hex": "#E82036",
+          "sample_xy": [
+            568,
+            960
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#237BBA",
+          "origin": "printed_hex",
+          "printed_hex": "#237BBA",
+          "sampled_hex": "#237BBA",
+          "sample_xy": [
+            58,
+            1190
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#43AA59",
+          "origin": "printed_hex",
+          "printed_hex": "#43AA59",
+          "sampled_hex": "#43AC54",
+          "sample_xy": [
+            568,
+            1170
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cell-atlas-nine",
+      "source": "IMG_3040.WEBP",
+      "kind": "categorical",
+      "colors": [
+        {
+          "hex": "#9E0142",
+          "origin": "printed_hex",
+          "printed_hex": "#9E0142",
+          "sampled_hex": "#9D0141",
+          "sample_xy": [
+            840,
+            40
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#D53E4F",
+          "origin": "printed_hex",
+          "printed_hex": "#D53E4F",
+          "sampled_hex": "#D53E4F",
+          "sample_xy": [
+            840,
+            230
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FDAE61",
+          "origin": "printed_hex",
+          "printed_hex": "#FDAE61",
+          "sampled_hex": "#FCAE62",
+          "sample_xy": [
+            840,
+            420
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#5E4FA2",
+          "origin": "printed_hex",
+          "printed_hex": "#5E4FA2",
+          "sampled_hex": "#5F52A4",
+          "sample_xy": [
+            840,
+            600
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#ABDDA4",
+          "origin": "printed_hex",
+          "printed_hex": "#ABDDA4",
+          "sampled_hex": "#ACDEA6",
+          "sample_xy": [
+            840,
+            805
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E6F598",
+          "origin": "printed_hex",
+          "printed_hex": "#E6F598",
+          "sampled_hex": "#E7F59A",
+          "sample_xy": [
+            75,
+            1030
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#3288BD",
+          "origin": "printed_hex",
+          "printed_hex": "#3288BD",
+          "sampled_hex": "#3286BC",
+          "sample_xy": [
+            620,
+            1020
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FEE08B",
+          "origin": "printed_hex",
+          "printed_hex": "#FEE08B",
+          "sampled_hex": "#FEE189",
+          "sample_xy": [
+            75,
+            1200
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#66C2A5",
+          "origin": "printed_hex",
+          "printed_hex": "#66C2A5",
+          "sampled_hex": "#65C2A5",
+          "sample_xy": [
+            620,
+            1190
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "age-composition",
+      "source": "IMG_3041.WEBP",
+      "kind": "categorical",
+      "colors": [
+        {
+          "hex": "#639DD0",
+          "origin": "printed_hex",
+          "printed_hex": "#639DD0",
+          "sampled_hex": "#639DD2",
+          "sample_xy": [
+            70,
+            730
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E1959A",
+          "origin": "printed_hex",
+          "printed_hex": "#E1959A",
+          "sampled_hex": "#E0959B",
+          "sample_xy": [
+            580,
+            720
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FFC79A",
+          "origin": "printed_hex",
+          "printed_hex": "#FFC79A",
+          "sampled_hex": "#FFC89C",
+          "sample_xy": [
+            70,
+            945
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#7CC1F3",
+          "origin": "printed_hex",
+          "printed_hex": "#7CC1F3",
+          "sampled_hex": "#7CC1F5",
+          "sample_xy": [
+            580,
+            925
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E1EDDC",
+          "origin": "printed_hex",
+          "printed_hex": "#E1EDDC",
+          "sampled_hex": "#E0ECDC",
+          "sample_xy": [
+            70,
+            1100
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#000000",
+          "origin": "printed_hex",
+          "printed_hex": "#000000",
+          "sampled_hex": "#000000",
+          "sample_xy": [
+            580,
+            1090
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "development-vivid",
+      "source": "IMG_3042.WEBP",
+      "kind": "categorical",
+      "colors": [
+        {
+          "hex": "#850662",
+          "origin": "printed_hex",
+          "printed_hex": "#850662",
+          "sampled_hex": "#870562",
+          "sample_xy": [
+            825,
+            35
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FFBDE5",
+          "origin": "printed_hex",
+          "printed_hex": "#FFBDE5",
+          "sampled_hex": "#FFBCE7",
+          "sample_xy": [
+            825,
+            220
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#785FF6",
+          "origin": "printed_hex",
+          "printed_hex": "#785FF6",
+          "sampled_hex": "#7961F6",
+          "sample_xy": [
+            825,
+            405
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#2100FA",
+          "origin": "printed_hex",
+          "printed_hex": "#2100FA",
+          "sampled_hex": "#2402FF",
+          "sample_xy": [
+            825,
+            595
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#9EFFFF",
+          "origin": "printed_hex",
+          "printed_hex": "#9EFFFF",
+          "sampled_hex": "#9DFFFE",
+          "sample_xy": [
+            825,
+            800
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#00AFB2",
+          "origin": "printed_hex",
+          "printed_hex": "#00AFB2",
+          "sampled_hex": "#02AFB2",
+          "sample_xy": [
+            50,
+            1020
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#22B24B",
+          "origin": "printed_hex",
+          "printed_hex": "#22B24B",
+          "sampled_hex": "#46DC46",
+          "sample_xy": [
+            580,
+            1010
+          ],
+          "note": "标注与截图色块的最大 RGB 通道差为 42；两者分别保留，不宣称为论文原始色。"
+        },
+        {
+          "hex": "#B56D2D",
+          "origin": "printed_hex",
+          "printed_hex": "#B56D2D",
+          "sampled_hex": "#BA7032",
+          "sample_xy": [
+            50,
+            1180
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FF6B24",
+          "origin": "printed_hex",
+          "printed_hex": "#FF6B24",
+          "sampled_hex": "#FF6B21",
+          "sample_xy": [
+            580,
+            1170
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "development-families",
+      "source": "IMG_3043.WEBP",
+      "kind": "categorical",
+      "colors": [
+        {
+          "hex": "#D37DB5",
+          "origin": "printed_hex",
+          "printed_hex": "#D37DB5",
+          "sampled_hex": "#D27CB4",
+          "sample_xy": [
+            830,
+            35
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#AD60A5",
+          "origin": "printed_hex",
+          "printed_hex": "#AD60A5",
+          "sampled_hex": "#AC61A5",
+          "sample_xy": [
+            830,
+            220
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#7E2E92",
+          "origin": "printed_hex",
+          "printed_hex": "#7E2E92",
+          "sampled_hex": "#7D2D93",
+          "sample_xy": [
+            830,
+            410
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E775AD",
+          "origin": "printed_hex",
+          "printed_hex": "#E775AD",
+          "sampled_hex": "#E876AC",
+          "sample_xy": [
+            830,
+            600
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#00B0B2",
+          "origin": "printed_hex",
+          "printed_hex": "#00B0B2",
+          "sampled_hex": "#02B1B3",
+          "sample_xy": [
+            830,
+            800
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#83D4E4",
+          "origin": "printed_hex",
+          "printed_hex": "#83D4E4",
+          "sampled_hex": "#86D3E4",
+          "sample_xy": [
+            60,
+            1020
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#4D91CC",
+          "origin": "printed_hex",
+          "printed_hex": "#4D91CC",
+          "sampled_hex": "#4C92CE",
+          "sample_xy": [
+            610,
+            1010
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#A0C3E7",
+          "origin": "printed_hex",
+          "printed_hex": "#A0C3E7",
+          "sampled_hex": "#A1C4E8",
+          "sample_xy": [
+            60,
+            1200
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#6B65AF",
+          "origin": "printed_hex",
+          "printed_hex": "#6B65AF",
+          "sampled_hex": "#6D65AE",
+          "sample_xy": [
+            610,
+            1190
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "botanical-pastel",
+      "source": "IMG_3044.WEBP",
+      "kind": "schematic",
+      "colors": [
+        {
+          "hex": "#C8BBDA",
+          "origin": "printed_hex",
+          "printed_hex": "#C8BBDA",
+          "sampled_hex": "#C9BBD9",
+          "sample_xy": [
+            245,
+            1300
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FBF8E5",
+          "origin": "printed_hex",
+          "printed_hex": "#FBF8E5",
+          "sampled_hex": "#FCF8E5",
+          "sample_xy": [
+            425,
+            1300
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#BCB1AB",
+          "origin": "printed_hex",
+          "printed_hex": "#BCB1AB",
+          "sampled_hex": "#BBB1AB",
+          "sample_xy": [
+            610,
+            1300
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#D4BAF7",
+          "origin": "printed_hex",
+          "printed_hex": "#D4BAF7",
+          "sampled_hex": "#D3BAF7",
+          "sample_xy": [
+            795,
+            1300
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FAD89F",
+          "origin": "printed_hex",
+          "printed_hex": "#FAD89F",
+          "sampled_hex": "#FAD8A0",
+          "sample_xy": [
+            975,
+            1300
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FE96A1",
+          "origin": "printed_hex",
+          "printed_hex": "#FE96A1",
+          "sampled_hex": "#FF97A1",
+          "sample_xy": [
+            245,
+            1500
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#BD6C71",
+          "origin": "sampled_swatch",
+          "printed_hex": null,
+          "sampled_hex": "#BD6C71",
+          "sample_xy": [
+            425,
+            1500
+          ],
+          "note": "色号文字被水印遮挡，未补猜；采用指定色块中心 13×13 像素的逐通道中位数。"
+        },
+        {
+          "hex": "#E5F8E6",
+          "origin": "sampled_swatch",
+          "printed_hex": null,
+          "sampled_hex": "#E5F8E6",
+          "sample_xy": [
+            610,
+            1500
+          ],
+          "note": "色号文字被水印遮挡，未补猜；采用指定色块中心 13×13 像素的逐通道中位数。"
+        },
+        {
+          "hex": "#F5F4E9",
+          "origin": "sampled_swatch",
+          "printed_hex": null,
+          "sampled_hex": "#F5F4E9",
+          "sample_xy": [
+            795,
+            1500
+          ],
+          "note": "色号文字被水印遮挡，未补猜；采用指定色块中心 13×13 像素的逐通道中位数。"
+        },
+        {
+          "hex": "#FFF6E5",
+          "origin": "printed_hex",
+          "printed_hex": "#FFF6E5",
+          "sampled_hex": "#FFF6E5",
+          "sample_xy": [
+            975,
+            1500
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tissue-lilac-peach",
+      "source": "IMG_3045.WEBP",
+      "kind": "schematic",
+      "colors": [
+        {
+          "hex": "#C4AFD1",
+          "origin": "printed_hex",
+          "printed_hex": "#C4AFD1",
+          "sampled_hex": "#C4AFCF",
+          "sample_xy": [
+            245,
+            1460
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F0E9F4",
+          "origin": "printed_hex",
+          "printed_hex": "#F0E9F4",
+          "sampled_hex": "#F1E8F4",
+          "sample_xy": [
+            430,
+            1460
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F0D4CA",
+          "origin": "printed_hex",
+          "printed_hex": "#F0D4CA",
+          "sampled_hex": "#F0D4C9",
+          "sample_xy": [
+            620,
+            1460
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E3A798",
+          "origin": "printed_hex",
+          "printed_hex": "#E3A798",
+          "sampled_hex": "#E2A797",
+          "sample_xy": [
+            810,
+            1460
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#EEE6C6",
+          "origin": "printed_hex",
+          "printed_hex": "#EEE6C6",
+          "sampled_hex": "#EFE6C7",
+          "sample_xy": [
+            990,
+            1460
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "functional-mint-salmon",
+      "source": "IMG_3046.WEBP",
+      "kind": "schematic",
+      "colors": [
+        {
+          "hex": "#7AB393",
+          "origin": "printed_hex",
+          "printed_hex": "#7AB393",
+          "sampled_hex": "#7AB394",
+          "sample_xy": [
+            220,
+            1280
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FBA799",
+          "origin": "printed_hex",
+          "printed_hex": "#FBA799",
+          "sampled_hex": "#FAA89B",
+          "sample_xy": [
+            420,
+            1280
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E9EAF2",
+          "origin": "printed_hex",
+          "printed_hex": "#E9EAF2",
+          "sampled_hex": "#EAEAF3",
+          "sample_xy": [
+            620,
+            1280
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#7FB558",
+          "origin": "printed_hex",
+          "printed_hex": "#7FB558",
+          "sampled_hex": "#7FB459",
+          "sample_xy": [
+            825,
+            1280
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FDF1A3",
+          "origin": "printed_hex",
+          "printed_hex": "#FDF1A3",
+          "sampled_hex": "#FEF2A4",
+          "sample_xy": [
+            1020,
+            1280
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#C3E4E2",
+          "origin": "printed_hex",
+          "printed_hex": "#C3E4E2",
+          "sampled_hex": "#C5E5E3",
+          "sample_xy": [
+            220,
+            1490
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#FEEAEA",
+          "origin": "sampled_swatch",
+          "printed_hex": null,
+          "sampled_hex": "#FEEAEA",
+          "sample_xy": [
+            420,
+            1490
+          ],
+          "note": "色号文字被水印遮挡，未补猜；采用指定色块中心 13×13 像素的逐通道中位数。"
+        },
+        {
+          "hex": "#EDDBE8",
+          "origin": "sampled_swatch",
+          "printed_hex": null,
+          "sampled_hex": "#EDDBE8",
+          "sample_xy": [
+            620,
+            1490
+          ],
+          "note": "色号文字被水印遮挡，未补猜；采用指定色块中心 13×13 像素的逐通道中位数。"
+        },
+        {
+          "hex": "#C6C7C2",
+          "origin": "sampled_swatch",
+          "printed_hex": null,
+          "sampled_hex": "#C6C7C2",
+          "sample_xy": [
+            825,
+            1490
+          ],
+          "note": "色号文字被水印遮挡，未补猜；采用指定色块中心 13×13 像素的逐通道中位数。"
+        },
+        {
+          "hex": "#CDEBDE",
+          "origin": "printed_hex",
+          "printed_hex": "#CDEBDE",
+          "sampled_hex": "#CEEBDF",
+          "sample_xy": [
+            1020,
+            1490
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "nano-blue-lilac",
+      "source": "IMG_3047.WEBP",
+      "kind": "schematic",
+      "colors": [
+        {
+          "hex": "#DCE8F1",
+          "origin": "printed_hex",
+          "printed_hex": "#DCE8F1",
+          "sampled_hex": "#DCE8F1",
+          "sample_xy": [
+            170,
+            1265
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F4E4BE",
+          "origin": "printed_hex",
+          "printed_hex": "#F4E4BE",
+          "sampled_hex": "#F3E5BC",
+          "sample_xy": [
+            395,
+            1265
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#A9ABD2",
+          "origin": "printed_hex",
+          "printed_hex": "#A9ABD2",
+          "sampled_hex": "#A8ABD1",
+          "sample_xy": [
+            620,
+            1265
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#D4EEED",
+          "origin": "printed_hex",
+          "printed_hex": "#D4EEED",
+          "sampled_hex": "#D5EEED",
+          "sample_xy": [
+            845,
+            1265
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E3BDCE",
+          "origin": "printed_hex",
+          "printed_hex": "#E3BDCE",
+          "sampled_hex": "#E3BCCD",
+          "sample_xy": [
+            1070,
+            1265
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "hydrogel-mint-rose",
+      "source": "IMG_3048.WEBP",
+      "kind": "schematic",
+      "colors": [
+        {
+          "hex": "#E0F0E6",
+          "origin": "sampled_swatch",
+          "printed_hex": "#EEE6C6",
+          "sampled_hex": "#E0F0E6",
+          "sample_xy": [
+            140,
+            1310
+          ],
+          "note": "标注 #EEE6C6 与薄荷绿色块明显不符；绘图采用色块中位采样值。 标注与截图色块的最大 RGB 通道差为 32；两者分别保留，不宣称为论文原始色。"
+        },
+        {
+          "hex": "#EED2D0",
+          "origin": "printed_hex",
+          "printed_hex": "#EED2D0",
+          "sampled_hex": "#EDD2CE",
+          "sample_xy": [
+            380,
+            1310
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F4D9BA",
+          "origin": "printed_hex",
+          "printed_hex": "#F4D9BA",
+          "sampled_hex": "#F4D9BB",
+          "sample_xy": [
+            620,
+            1310
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#E993A9",
+          "origin": "printed_hex",
+          "printed_hex": "#E993A9",
+          "sampled_hex": "#E893A9",
+          "sample_xy": [
+            865,
+            1310
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F2E193",
+          "origin": "printed_hex",
+          "printed_hex": "#F2E193",
+          "sampled_hex": "#F2E193",
+          "sample_xy": [
+            1105,
+            1310
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "composition-six",
+      "source": "IMG_3049.WEBP",
+      "kind": "categorical",
+      "colors": [
+        {
+          "hex": "#E64B34",
+          "origin": "printed_hex",
+          "printed_hex": "#E64B34",
+          "sampled_hex": "#E64B34",
+          "sample_xy": [
+            60,
+            785
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#4DBBD6",
+          "origin": "printed_hex",
+          "printed_hex": "#4DBBD6",
+          "sampled_hex": "#4DBBD6",
+          "sample_xy": [
+            570,
+            775
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#3C5487",
+          "origin": "printed_hex",
+          "printed_hex": "#3C5487",
+          "sampled_hex": "#3C5487",
+          "sample_xy": [
+            60,
+            990
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#F29B80",
+          "origin": "printed_hex",
+          "printed_hex": "#F29B80",
+          "sampled_hex": "#F29B80",
+          "sample_xy": [
+            570,
+            980
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#8591B4",
+          "origin": "printed_hex",
+          "printed_hex": "#8591B4",
+          "sampled_hex": "#8591B4",
+          "sample_xy": [
+            60,
+            1150
+          ],
+          "note": ""
+        },
+        {
+          "hex": "#808080",
+          "origin": "printed_hex",
+          "printed_hex": "#808080",
+          "sampled_hex": "#808080",
+          "sample_xy": [
+            570,
+            1140
+          ],
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
