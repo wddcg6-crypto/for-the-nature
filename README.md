@@ -4,7 +4,7 @@ A Codex skill for scientific visualization, publication figures, color palettes,
 
 [Download ZIP](https://github.com/wddcg6-crypto/for-the-nature/archive/refs/heads/main.zip) · [Skill entry](nature-figure-style/SKILL.md) · [Releases](https://github.com/wddcg6-crypto/for-the-nature/releases)
 
-基于多张科研绘图参考截图**，逐张提炼配色、布局、视觉层级与适用边界。包含 **24 套色板、150 个色位**，支持数据图和生物机制图。
+Based on multiple scientific research drawings as references, the color schemes, layouts, visual hierarchies and applicable boundaries are extracted one by one. It includes 24 color palettes, 150 color positions, and supports data charts and biological mechanism charts.
 
 这是一套可检索的绘图经验库。绘图时，Codex 读取相关图例分析并选择适配当前数据的样式。
 
