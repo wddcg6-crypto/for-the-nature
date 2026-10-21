@@ -1,4 +1,4 @@
-# Nature Figure Style · 科研绘图参考 Skill
+# Figure for the nature
 
 A Codex skill for scientific visualization, publication figures, color palettes, multi-panel layouts, statistical plots and biological mechanism diagrams. Built from visual analysis of 20 reference screenshots, with 24 palettes and 150 documented color positions.
 
