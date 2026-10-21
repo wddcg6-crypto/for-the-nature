@@ -4,9 +4,9 @@ A Codex skill for scientific visualization, publication figures, color palettes,
 
 [Download ZIP](https://github.com/wddcg6-crypto/for-the-nature/archive/refs/heads/main.zip) · [Skill entry](nature-figure-style/SKILL.md) · [Releases](https://github.com/wddcg6-crypto/for-the-nature/releases)
 
-基于桌面 `for the nature` 收藏中的 **20 张科研绘图参考截图**，逐张提炼配色、布局、视觉层级与适用边界，整理为 Codex 可读取的技能。包含 **24 套色板、150 个色位**，支持数据图和生物机制图。
+基于多张科研绘图参考截图**，逐张提炼配色、布局、视觉层级与适用边界。包含 **24 套色板、150 个色位**，支持数据图和生物机制图。
 
-这是一套可检索的绘图经验库，不是训练模型，也不是 Nature 官方规范。后续绘图时，Codex 读取相关图例分析并选择适配当前数据的样式。
+这是一套可检索的绘图经验库。绘图时，Codex 读取相关图例分析并选择适配当前数据的样式。
 
 ![统计图示例，全部为模拟数据](examples/style-demo-statistical.png)
 
@@ -72,7 +72,7 @@ python nature-figure-style/scripts/audit_corpus.py
 
 ## 分析方法与可复核性
 
-20 张图片全部逐张查看，没有只按文件名分类。对于清晰可读的 HEX 标注，保留其文字值；对于文字被遮挡的色位，用色块中心 13×13 像素逐通道中位数采样。JSON 同时记录标注、采样、坐标和采用值。解码/压缩/色彩管理会产生差异，采样不等于原始矢量稿色值。
+图片逐张查看，没有只按文件名分类。对于清晰可读的 HEX 标注，保留其文字值；对于文字被遮挡的色位，用色块中心 13×13 像素逐通道中位数采样。JSON 同时记录标注、采样、坐标和采用值。解码/压缩/色彩管理会产生差异，采样不等于原始矢量稿色值。
 
 特别记录了 IMG_3048 的薄荷色块误标：截图文字为 `#EEE6C6`，色块采样为 `#E0F0E6`，本库的机制图色板采用后者。IMG_3042 的绿色标注与色块也有较大差异，两种值均保留，默认采用清晰的标注值。
 
